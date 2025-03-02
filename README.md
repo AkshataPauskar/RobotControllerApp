@@ -2,13 +2,13 @@ Robot Controller - A 2D Grid Navigation System
 This repository contains the implementation of a Robot Controller that can navigate a 2D grid of known size. The robot is given a starting position and a series of commands to control its movement. The controller interacts with various obstacles placed on the grid, including rocks, holes, and spinners, each affecting the robot’s movement in different ways.
 
 Features:
-Basic Movement: The robot can move forward, turn left, or turn right based on a series of commands (e.g., "LFFFRFFLFFFFRLFFFR").
-Obstacle Interactions:
-Rock: The robot can't move onto a grid cell with a rock.
-Hole: The robot falls into a hole and is transported to a connected grid location, maintaining its direction.
-Spinner: The robot gets rotated by a given number of degrees (in 90-degree increments) when it encounters a spinner.
-Expandable: The system is designed to be easily extendable with new robots and new types of obstacles without recompiling the code.
-Path Tracking: The robot's path is logged and can be printed out, showing all the positions it visited during its traversal.
+* Basic Movement: The robot can move forward, turn left, or turn right based on a series of commands (e.g., "LFFFRFFLFFFFRLFFFR").
+* Obstacle Interactions:
+* Rock: The robot can't move onto a grid cell with a rock.
+* Hole: The robot falls into a hole and is transported to a connected grid location, maintaining its direction.
+* Spinner: The robot gets rotated by a given number of degrees (in 90-degree increments) when it encounters a spinner.
+* Expandable: The system is designed to be easily extendable with new robots and new types of obstacles without recompiling the code.
+* Path Tracking: The robot's path is logged and can be printed out, showing all the positions it visited during its traversal.
 
 Usage:
 The robot starts at a specified grid position and direction.
