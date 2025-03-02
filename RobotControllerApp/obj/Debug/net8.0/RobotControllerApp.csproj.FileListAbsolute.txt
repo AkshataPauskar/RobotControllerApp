@@ -1,0 +1,14 @@
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerApp\bin\Debug\net8.0\RobotControllerApp.exe
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerApp\bin\Debug\net8.0\RobotControllerApp.deps.json
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerApp\bin\Debug\net8.0\RobotControllerApp.runtimeconfig.json
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerApp\bin\Debug\net8.0\RobotControllerApp.dll
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerApp\bin\Debug\net8.0\RobotControllerApp.pdb
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerApp\obj\Debug\net8.0\RobotControllerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerApp\obj\Debug\net8.0\RobotControllerApp.AssemblyInfoInputs.cache
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerApp\obj\Debug\net8.0\RobotControllerApp.AssemblyInfo.cs
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerApp\obj\Debug\net8.0\RobotControllerApp.csproj.CoreCompileInputs.cache
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerApp\obj\Debug\net8.0\RobotControllerApp.dll
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerApp\obj\Debug\net8.0\refint\RobotControllerApp.dll
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerApp\obj\Debug\net8.0\RobotControllerApp.pdb
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerApp\obj\Debug\net8.0\RobotControllerApp.genruntimeconfig.cache
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerApp\obj\Debug\net8.0\ref\RobotControllerApp.dll

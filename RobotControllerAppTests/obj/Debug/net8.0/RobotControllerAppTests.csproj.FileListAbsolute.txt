@@ -1,0 +1,6 @@
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerAppTests\bin\Debug\net8.0\CoverletSourceRootsMapping_RobotControllerAppTests
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerAppTests\obj\Debug\net8.0\RobotControllerAppTests.csproj.AssemblyReference.cache
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerAppTests\obj\Debug\net8.0\RobotControllerAppTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerAppTests\obj\Debug\net8.0\RobotControllerAppTests.AssemblyInfoInputs.cache
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerAppTests\obj\Debug\net8.0\RobotControllerAppTests.AssemblyInfo.cs
+C:\Users\Karthik Dattatreya\Desktop\RobotControllerApp\RobotControllerApp\RobotControllerAppTests\obj\Debug\net8.0\RobotControllerAppTests.csproj.CoreCompileInputs.cache
